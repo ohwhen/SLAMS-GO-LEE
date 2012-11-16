@@ -1,4 +1,2 @@
-golee
-=====
-
-GO LEE Interactive foosball table
+GO LEE
+An interactive foosball table by Sid Lee Amsterdam

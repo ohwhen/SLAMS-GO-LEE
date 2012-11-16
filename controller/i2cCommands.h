@@ -1,0 +1,22 @@
+#define I2C_OUT_STARTED_UP 0
+#define I2C_OUT_ONLINE 1
+#define I2C_OUT_OFFLINE 2
+#define I2C_OUT_RFID 3
+#define I2C_OUT_ADD_POINT 4
+#define I2C_OUT_REMOVE_POINT 5
+#define I2C_OUT_RESET 6
+
+#define I2C_IN_STARTUP 0
+#define I2C_IN_ENABLE 1
+#define I2C_IN_PLAYER 2
+#define I2C_IN_GOAL 3
+#define I2C_IN_WIN 4
+#define I2C_IN_LOSS 5
+#define I2C_IN_GAME_STARTED 6
+#define I2C_IN_CONNECTION_LOST 7
+#define I2C_IN_RECONNECTED 8
+#define I2C_IN_TEMP_PLAYER 9
+#define I2C_IN_OFFLINE 10
+#define I2C_IN_END 11
+
+#define I2C_IN_ERROR_WIFI 12
